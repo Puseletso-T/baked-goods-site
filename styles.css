@@ -1,0 +1,27 @@
+h1{
+    margin-bottom: 5rem;
+}
+
+
+.card-body{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+.card-title{
+    flex-grow: 1;
+}
+
+
+.card:hover img{
+    transform: scale(1.1);
+}
+
+.wrapper{
+    margin-top: 4rem;
+}
+
+.row{
+    margin-top: 1rem;
+}
+
